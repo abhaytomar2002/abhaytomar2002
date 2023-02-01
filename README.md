@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaytomar2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhaytomar2002" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Full-stack web development**
 
